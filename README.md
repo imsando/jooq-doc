@@ -3,6 +3,7 @@
 - 그리하야 jooq 공식문서를 번역 및 공부해보려고 한다... (공식문서 맛집)
 
 ## 카테고리
+(https://www.jooq.org/doc/3.20/manual)
 - jooq 공식문서 첫 장에는 Overview가 있다.
 - 이 문서에서는 jooq의 개요가 크게 6개의 section으로 구분되어있다.
 - 각 section은 다음과 같다.
@@ -14,3 +15,4 @@
 5. Code generation
 6. Coming from JPA
 
+(작성중 2025.07.23~)
