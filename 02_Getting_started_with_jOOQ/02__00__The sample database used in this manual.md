@@ -1,6 +1,6 @@
 # 02-02 The sample database used in this manual
 
-#### 🧪 jOOQ 샘플 데이터베이스 안내
+#### 📘 jOOQ 샘플 데이터베이스 안내
 
 #### ➡️ [해당 내용 보기](https://www.jooq.org/doc/3.20/manual/getting-started/sample-database/)
 
